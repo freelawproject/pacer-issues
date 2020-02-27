@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Suggestion
+about: Suggest an idea that'd improve PACER
 title: ''
 labels: ''
 assignees: ''
