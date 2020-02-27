@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Suggest an idea that'd improve PACER
+about: Suggest an idea that'd improve PACER or CM/ECF
 title: ''
 labels: ''
 assignees: ''
