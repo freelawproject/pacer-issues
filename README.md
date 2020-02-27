@@ -25,6 +25,12 @@ Beyond that, it's pretty simple to join the conversation:
  
 We hope this collection of bugs and ideas will help catalog and demonstrate the pent up needs and desires of everyday PACER and CM/ECF users. We also hope it'll provide a place for discussing these issues so we can find solutions and brainstorm ideas for making things better.
 
+---------------
+
+<sup>
+This Issue Tracker is NOT operated by the Administrative Office of the U.S. Courts. Free Law Project, a 501(c)(3) non-profit that seeks to provide free access to primary legal materials, develop legal research tools, and support academic research on legal corpora, put this initial list together and maintains it. If you wish to contact PACER directly, see https://www.pacer.gov/contact.html  
+</sup>
+
 [issues]: https://github.com/freelawproject/pacer-issues/issues
 [enhancement]: https://github.com/freelawproject/pacer-issues/issues/new?assignees=&labels=&template=feature_request.md&title=
 [bug]: https://github.com/freelawproject/pacer-issues/issues/new?assignees=&labels=&template=bug.md&title=
