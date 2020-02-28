@@ -31,7 +31,7 @@ We hope this collection of bugs and ideas will help catalog and demonstrate the 
 This Issue Tracker is NOT operated by the Administrative Office of the U.S. Courts. Free Law Project, a 501(c)(3) non-profit that seeks to provide free access to primary legal materials, develop legal research tools, and support academic research on legal corpora, put this initial list together and maintains it. If you wish to contact PACER directly, see https://www.pacer.gov/contact.html  
 </sup>
 
-[issues]: https://github.com/freelawproject/pacer-issues/issues
+[issues]: https://github.com/freelawproject/pacer-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc 
 [enhancement]: https://github.com/freelawproject/pacer-issues/issues/new?assignees=&labels=&template=feature_request.md&title=
 [bug]: https://github.com/freelawproject/pacer-issues/issues/new?assignees=&labels=&template=bug.md&title=
 [tweet]: https://twitter.com/SeamusHughes/status/1232461153957072897👇
